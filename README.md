@@ -6,4 +6,5 @@ Roll a dice 1000 times, using a generator that generates the numbers in the rang
 | 2 |  |  |
 | 3 |  |  |
 | 4 |  |  |
-    
+| 5 |  |  |
+| 6 |  |  |
